@@ -33,3 +33,20 @@ header h1 {
     color: #ec306c;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
+button {
+    background-color: #f48fb1;
+    color: rgba(22, 22, 22, 0.797);
+    border: none;
+    padding: 0.8rem 1.5rem;
+    margin: 1rem auto;
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+button:hover {
+    background-color: #ec407a;
+    transform: scale(1.05);
+}
