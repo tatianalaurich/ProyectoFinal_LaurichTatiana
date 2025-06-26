@@ -29,5 +29,7 @@ alert("Bienvenida/o al recomendador de productos Natura")
             recomendarProducto(gusto)
         }
         seguir = confirm("¿Querés hacer otra recomendación?")
-        console.log("Gracias por usar el simulador de productos Natura.")
+        
 }
+console.log("Gracias por usar el simulador de productos Natura.")
+alert("¡Gracias por usar el simulador de productos Natura!")
