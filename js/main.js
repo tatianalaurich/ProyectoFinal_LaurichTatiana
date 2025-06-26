@@ -5,7 +5,6 @@ const productos = [
     { nombre: "Ekos Pitanga", tipo: "cítrico" },
     { nombre: "Essencial Exclusivo", tipo: "intenso" }
 ]
-
 function recomendarProducto(preferencia) {
     let recomendados = []
     for (let producto of productos) {
