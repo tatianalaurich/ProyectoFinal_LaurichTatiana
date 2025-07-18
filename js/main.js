@@ -3,6 +3,7 @@ const perfumes = [
     { nombre: "Ekos Açaí", tipo: "fresco" },
     { nombre: "Ekos Pitanga", tipo: "citrico" },
     { nombre: "Ekos Maracuyá", tipo: "frutal" },
+    { nombre: "Ekos Cacau", tipo: "natural" },
     { nombre: "Essencial Exclusivo", tipo: "intenso" }
 ];
 const cremas = [
