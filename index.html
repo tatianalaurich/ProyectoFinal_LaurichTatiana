@@ -8,10 +8,25 @@
     <title>Recomendador Productos Natura</title>
 </head>
 <body>
-    <header>
-        <h1>Simulador de Recomendador de Productos Natura</h1><br>
-        <p>Elije la opción que te guste, para que te recomendemos un perfume.</p>
-        <button onclick="location.reload()">Reiniciar página completa</button>
-    </header>
+    <main class="contenedor">
+        <h1>Recomendador de productos Natura</h1>
+        <form id="form-recomendador">
+            <label for="nombre">Tu nombre:</label>
+                <input type="text" id="nombre" required>
+            <label for="categoria">Elige una categoría:</label>
+                <select id="categoria" required>
+                    <option value="">--Seleccionar--</option>
+                    <option value="perfume">Perfume</option>
+                    <option value="maquillaje">Maquillaje</option>
+                    <option value="cremas">Cremas</option>
+                </select>
+            <label for="tipo">Palabra clave (ej: cremoso, intenso, cítrico, fresco, frutal, natural):</label>
+                <input type="text" id="tipo" required>
+            <button type="submit" class="boton-secundario">Buscar recomendación</button>
+        </form>
+        <button id="ver-ultima" class="boton-secundario">Ver última recomendación</button>
+        <button id="borrar-historial" class="boton-secundario">Borrar historial</button>
+        <div id="resultado"></div>
+    </main>
 </body>
 </html>
