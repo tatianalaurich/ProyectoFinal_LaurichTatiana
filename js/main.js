@@ -1,7 +1,7 @@
 const perfumes = [
     { nombre: "Ekos Castaña", tipo: "cremoso" },
     { nombre: "Ekos Açaí", tipo: "fresco" },
-    { nombre: "Ekos Pitanga", tipo: "cítrico" },
+    { nombre: "Ekos Pitanga", tipo: "citrico" },
     { nombre: "Ekos Maracuyá", tipo: "frutal" },
     { nombre: "Essencial Exclusivo", tipo: "intenso" }
 ];
@@ -9,7 +9,7 @@ const cremas = [
     { nombre: "Pulpa Castaña", tipo: "cremoso" },
     { nombre: "Néctar Maracuyá", tipo: "frutal" },
     { nombre: "Manteca Ucuuba", tipo: "intenso" },
-    { nombre: "Néctar Pitanga", tipo: "cítrico" }
+    { nombre: "Néctar Pitanga", tipo: "citrico" }
 ];
 const maquillaje = [
     { nombre: "Labial Una", tipo: "intenso" },
