@@ -11,7 +11,7 @@ Este proyecto es un simulador interactivo que recomienda productos de Natura seg
 ## 🛠️ Tecnologías utilizadas
 - HTML
 - CSS
-- JavaScript (DOM, eventos, arrays, funciones de orden superior, localStorage)
+- JavaScript (DOM, eventos, arrays, funciones de orden superior, localStorage, fetch con JSON, manejo de errores con try...catch...finally, SweetAlert2 para notificaciones)
 
 ## 🚀 Cómo usar
 1. Ingresá tu nombre.
