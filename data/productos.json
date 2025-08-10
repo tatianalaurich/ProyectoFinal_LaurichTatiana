@@ -1,0 +1,67 @@
+[
+    {
+        "categoria": "perfume",
+        "nombre": "Ekos Castaña",
+        "tipo": "cremoso"
+    },
+    {
+        "categoria": "perfume",
+        "nombre": "Ekos Açaí",
+        "tipo": "fresco"
+    },
+    {
+        "categoria": "perfume",
+        "nombre": "Ekos Pitanga",
+        "tipo": "cítrico"
+    },
+    {
+        "categoria": "perfume",
+        "nombre": "Ekos Maracuyá",
+        "tipo": "frutal"
+    },
+    {
+        "categoria": "perfume",
+        "nombre": "Essencial Exclusivo",
+        "tipo": "intenso"
+    },
+    {
+        "categoria": "crema",
+        "nombre": "Crema Castaña",
+        "tipo": "cremoso"
+    },
+    {
+        "categoria": "crema",
+        "nombre": "Crema Maracuyá",
+        "tipo": "frutal"
+    },
+    {
+        "categoria": "crema",
+        "nombre": "Pulpa Ucuuba",
+        "tipo": "intenso"
+    },
+    {
+        "categoria": "crema",
+        "nombre": "Crema de manos Pitanga",
+        "tipo": "cítrico"
+    },
+    {
+        "categoria": "maquillaje",
+        "nombre": "Labial Intenso",
+        "tipo": "intenso"
+    },
+    {
+        "categoria": "maquillaje",
+        "nombre": "Base Fluida",
+        "tipo": "natural"
+    },
+    {
+        "categoria": "maquillaje",
+        "nombre": "Máscara de Pestañas",
+        "tipo": "intenso"
+    },
+    {
+        "categoria": "maquillaje",
+        "nombre": "Gloss labial",
+        "tipo": "frutal"
+    }
+]
